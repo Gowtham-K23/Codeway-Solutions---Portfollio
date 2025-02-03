@@ -14,6 +14,7 @@ This is a **simple and neat portfolio website**, created as part of the **Codewa
 
 ### 🔗 LinkedIn Post  
 Check out my post about this project on **LinkedIn**:  
+
 🔗 [LinkedIn Activity](https://www.linkedin.com/posts/gowtham-k-b40480264_webdevelopment-frontenddevelopment-frontend-activity-7170927782431059970-Gv8F?utm_source=share&utm_medium=member_desktop)  
 
 ### ✨ Features  
