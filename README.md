@@ -1,21 +1,25 @@
-# 💼 Codeway Solutions - Virtual Internship (Web Development)  
+# 💼 Codeway Solutions - Virtual Internship  
+## 🌐 Web Development - Task 1  
 
-## 📌 Task 1 - Portfolio  
+### 📌 Overview  
+This is a **simple and neat portfolio website**, created as part of the **Codeway Solutions Virtual Internship - Web Development Task 1**. The website showcases my **skills, services, projects, and contact information**. While it's **not fully responsive**, it offers a clean and structured design.  
 
-This is a **simple and neat** portfolio website built as part of the **Codeway Solutions Virtual Internship** under the **Web Development** domain. The portfolio showcases essential details in a structured layout but is **not fully responsive**.  
-
-## 🛠 Tech Stack  
+### 🛠 Tech Stack  
 - **Frontend:** HTML, CSS  
 - **Development Environment:** Visual Studio Code  
 - **Deployment:** GitHub Pages  
 
-## 🚀 Live Demo  
-🔗 [Portfolio Website](https://gowtham-k23.github.io/CodewaySolutions_Portfolio/)  
+### 🚀 Live Demo  
+🔗 **[Portfolio Website](https://gowtham-k23.github.io/CodewaySolutions_Portfolio/)**  
 
-## ✨ Features  
-✅ **Creative and Responsive Navbar** – Smooth navigation experience  
-✅ **Social Media Links** – Easily connect through various platforms  
-✅ **Services Section** – Showcases offerings and expertise  
-✅ **Technical Skills** – Highlights proficiency in different technologies  
-✅ **Projects Section** – Displays past and ongoing projects  
-✅ **Contact Section** – Includes necessary details for communication  
+### 🔗 LinkedIn Post  
+Check out my post about this project on **LinkedIn**:  
+🔗 [LinkedIn Activity](https://www.linkedin.com/posts/gowtham-k-b40480264_webdevelopment-frontenddevelopment-frontend-activity-7170927782431059970-Gv8F?utm_source=share&utm_medium=member_desktop)  
+
+### ✨ Features  
+✅ **Creative & Interactive Navbar** – Smooth navigation experience  
+✅ **Social Media Links** – Connect with me easily  
+✅ **Services Section** – Showcases what I offer  
+✅ **Technical Skills** – Highlights my expertise  
+✅ **Projects Section** – Displays my work  
+✅ **Contact Section** – Provides ways to get in touch  
